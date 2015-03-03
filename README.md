@@ -1,1 +1,1 @@
-Test data for strfry string comparison and phonetic encoding algorithms.
+Test data for jellyfish string comparison and phonetic encoding algorithms.
